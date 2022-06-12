@@ -12,7 +12,6 @@ HOTR + CPC (will be update soon)
 
 
 ## Citation
-Please consider citing our paper if it helps your research.
 ```
 @inproceedings{park2022consistency,
   title={Consistency Learning via Decoding Path Augmentation for Transformers in Human Object Interaction Detection},
