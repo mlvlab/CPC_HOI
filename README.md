@@ -8,7 +8,7 @@ Official PyTorch Implementation for CVPR2022 paper "Consistency Learning via Dec
 
 [QPIC + CPC](https://github.com/jihwanp/CPC_QPIC)
 
-HOTR + CPC (will be update soon)
+[HOTR + CPC] (https://github.com/jihwanp/CPC_HOTR)
 
 
 ## Citation
